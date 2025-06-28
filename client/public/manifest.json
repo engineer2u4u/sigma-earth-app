@@ -1,0 +1,53 @@
+{
+  "name": "Sigma Earth - Sustainability Hub",
+  "short_name": "Sigma Earth",
+  "description": "Environmental courses, green jobs, sustainability events, and eco-friendly listings",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2D5A3D",
+  "theme_color": "#2D5A3D",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["education", "business", "lifestyle"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIHJ4PSI0OCIgZmlsbD0iIzJENUEzRCIvPjxwYXRoIGQ9Ik05NiA2NEw4MCA4MEw5NiA5NkwxMTIgODBMOTYgNjRaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxMjgiIGZpbGw9IiMyRDVBM0QiLz48cGF0aCBkPSJNMjU2IDE3MEwyMTMgMjEzTDI1NiAyNTZMMjk5IDIxM0wyNTYgMTcwWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Environmental Courses",
+      "short_name": "Courses",
+      "description": "Browse environmental courses and sustainability education",
+      "url": "/courses",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHJ4PSIyNCIgZmlsbD0iIzJENUEzRCIvPjxwYXRoIGQ9Ik00OCAzMkw0MCA0MEw0OCA0OEw1NiA0MEw0OCAzMloiIGZpbGw9IndoaXRlIi8+PC9zdmc+",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Green Jobs",
+      "short_name": "Jobs",
+      "description": "Find sustainability and environmental job opportunities",
+      "url": "/jobs",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHJ4PSIyNCIgZmlsbD0iIzRBN0M1OSIvPjxwYXRoIGQ9Ik00OCAzMkw0MCA0MEw0OCA0OEw1NiA0MEw0OCAzMloiIGZpbGw9IndoaXRlIi8+PC9zdmc+",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
